@@ -1,2 +1,2 @@
-# ReactDevTools_Practice
+# ReactProps_Challenge
 Created with CodeSandbox
